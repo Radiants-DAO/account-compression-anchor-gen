@@ -6,7 +6,7 @@ version = "0.9.2"
 edition = "2021"
 description = "Anchor CPI client for bubblegum program"
 authors = []
-repository = "https://github.com/helium/account-compression-anchor-gen"
+repository = "https://github.com/Radiants-DAO/account-compression-anchor-gen"
 license = "Apache-2.0"
 keywords = ["solana", "anchor", "cpi", "compression"]
 

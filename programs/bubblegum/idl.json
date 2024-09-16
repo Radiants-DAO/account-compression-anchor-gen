@@ -1786,5 +1786,8 @@
       "name": "UnknownExternalError",
       "msg": "Could not convert external error to BubblegumError"
     }
-  ]
+  ],
+  "metadata": {
+    "address": "BGUMAp9Gq7iTEuizy4pqaxsTyUCBK68MDfK752saRPUY"
+  }
 }
